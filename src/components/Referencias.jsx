@@ -1,12 +1,12 @@
 const Referencias = () => {
     const references = [
         {
-            name: "Jesus David Zapata Betancourt",
+            name: "Yuli Arboleda Guarin",
             // position: "",
-            phone: "312 8091832",
+            phone: "321 8871858",
             // email: ""
-            name2: "Jesus Zapata Muñoz",
-            phone2: "318 6582410",
+            // name2: "Jesus Zapata Muñoz",
+            // phone2: "318 6582410",
         }
     ];
 
@@ -21,8 +21,8 @@ const Referencias = () => {
               {/* {ref.description && <p>{ref.description}</p>} */}
               <p>Teléfono: {ref.phone}</p>
               {/* {ref.email && <p>Email: {ref.email}</p>} */}
-              <h3>2. {ref.name2}</h3>
-              <p>Teléfono: {ref.phone2}</p>
+              {/* <h3>2. {ref.name2}</h3>
+              <p>Teléfono: {ref.phone2}</p> */}
             </div>
           ))}
         </div>
