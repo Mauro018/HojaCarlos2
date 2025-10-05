@@ -1,7 +1,7 @@
 const Referencias = () => {
     const references = [
         {
-            name: "Yuli Arboleda Guarin",
+            name: "Yuly Arboleda Guarin",
             // position: "",
             phone: "321 8871858",
             // email: ""
